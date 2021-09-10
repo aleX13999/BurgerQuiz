@@ -199,7 +199,6 @@ document.addEventListener('DOMContentLoaded', () => {
             checkAnswer()
             numberQuestion++
             renderQuestions(numberQuestion)
-            console.log(finalAnswers)
         }
     }
 })
